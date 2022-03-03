@@ -1,4 +1,4 @@
 
 Hello!
 	
-	This is our new project "F2F-SA"
+	This is our new project "F2F-SA-Dev"
