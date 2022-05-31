@@ -1,6 +1,6 @@
 
 Hello!
 	
-	This is our new project "F2F-SA-Dev"
-	This is our new project "F2F-SA-QA"
-	This is our new project "F2F-SA-UI"
+	This is our new project "B2B UI"
+	This is our new project "B2B SA"
+	This is our new project "B2B BA"
